@@ -1,5 +1,6 @@
 package qsp;
 
-public class B {
+public class C {
+
 int i=10;
-}
+	}
